@@ -1,0 +1,24 @@
+// Place all the styles related to the Couriers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+td {
+}
+table {
+
+}
+.new_cour {
+  position: absolute;
+  width: 610px;
+  height: 622px;
+  left: 20px;
+  top: 20px;
+}
+.photo{
+  position: absolute;
+  width: 225px;
+  height: 225px;
+  left: 180px;
+  top: 67px;
+  background-color: #ffffff;
+  border-radius: 100%;
+}
